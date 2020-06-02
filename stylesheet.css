@@ -258,6 +258,9 @@ padding:10px;
   color: white;
 }
 
+.howtouse p {
+  color:#5f5d60;
+}
 
 .howtouse ol{
   display: inline-block;
@@ -318,6 +321,7 @@ dd{
 .price1 p{
   display: inline-block;
   text-align: left;
+  color:#5f5d60;
 }
 
 .add{
