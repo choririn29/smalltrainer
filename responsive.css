@@ -45,17 +45,24 @@
 
 @media all and (max-width: 670px) {
 
+  p{
+    font-size: 12px;
+  }
+
+
 .top-wrapper{
   background-image: url(top.jpg);
 }
 
 .top-wrapper p{
+  font-size: 12px;
    padding:10px 10px;
    border:solid 1px #fff;
    border-radius:10px;
    width:80%;
    display: inline-block;
 }
+
 
   .lesson {
     width:100%;
