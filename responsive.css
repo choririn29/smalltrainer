@@ -31,9 +31,15 @@
  }
 
  .howtouse{
-   font-size: 15px;
+   font-size: 13px;
    padding: 0 1em;
  }
+  
+ .howtouse li {
+    font-size: 13px;
+ }
+  
+  
 }
 
 @media all and (max-width: 750px) {
