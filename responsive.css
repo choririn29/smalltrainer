@@ -33,6 +33,16 @@
    width: 90%;
  }
 
+ .skill1 ol{
+   font-size: 15px;
+ }
+
+ .howtouse{
+   font-size: 15px;
+   padding: 0 1em;
+ }
+
+
 @media all and (max-width: 670px) {
 
 .top-wrapper{
