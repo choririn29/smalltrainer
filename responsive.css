@@ -7,11 +7,25 @@
  .heading{
    width:100%;
  }
+
+ h1{
+   font-size:25px;
+ }
+ p{
+   font-size: 15px;
+ }
+
+
  .heading1{
    width:100%;
    padding: 2em;
    text-align: center;
  }
+
+ .top-wrapper p{
+    font-size:15px;
+  }
+
 
  .add{
    display: inline-block;
@@ -61,6 +75,7 @@ p{
   font-size: 15px;
 }
 
+/* menu-iconクラスのdisplayをblockに指定してください  */
 #menu-icon {
   display:block;
 }
