@@ -8,10 +8,18 @@
    width:100%;
  }
 
- h1{
+ 
+  h1{
    font-size:25px;
  }
- p{
+  
+  
+ .top-wrapper p{
+    font-size:12px;
+  }
+
+
+ p {
    font-size: 12px;
  }
 
@@ -21,11 +29,6 @@
    padding: 2em;
    text-align: center;
  }
-
- .top-wrapper p{
-    font-size:13px;
-  }
-
 
  .add{
    display: inline-block;
