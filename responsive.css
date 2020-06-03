@@ -12,7 +12,7 @@
    font-size:25px;
  }
  p{
-   font-size: 15px;
+   font-size: 12px;
  }
 
 
@@ -23,7 +23,7 @@
  }
 
  .top-wrapper p{
-    font-size:15px;
+    font-size:13px;
   }
 
 
@@ -50,7 +50,6 @@
 }
 
 .top-wrapper p{
-   font-size:15px;
    padding:10px 10px;
    border:solid 1px #fff;
    border-radius:10px;
@@ -81,9 +80,6 @@ h1{
   font-size: 20px;
 }
 
-p{
-  font-size: 15px;
-}
 
 /* menu-iconクラスのdisplayをblockに指定してください  */
 #menu-icon {
